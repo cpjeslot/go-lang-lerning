@@ -84,6 +84,3 @@ If you wish to contribute to the project, feel free to fork the repository and s
 This project was created as part of a Go programming tutorial by **Nana Janashia**. You can watch the full tutorial on YouTube [here](https://www.youtube.com/watch?v=yyUHQIec83I).
 
 ---
-
-Developed by: Chetan Patel  
-Email: chetan@jeslot.in
