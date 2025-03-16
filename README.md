@@ -22,7 +22,7 @@ This is a simple Go application to manage the ticket booking process for a confe
 
 ## Prerequisites
 
-- Go 1.16+ installed on your machine.
+- Go 1.24.1 installed on your machine.
 - Basic understanding of Go programming.
 
 ## Installation
@@ -30,7 +30,7 @@ This is a simple Go application to manage the ticket booking process for a confe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/conference-booking-app.git
+   git clone https://github.com/cpjeslot/go-lang-lerning.git
    ```
 
 2. Navigate to the project directory:
