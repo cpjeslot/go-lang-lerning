@@ -30,13 +30,13 @@ This is a simple Go application to manage the ticket booking process for a confe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/cpjeslot/go-lang-lerning.git
+   git clone https://github.com/cpjeslot/ticket-booking-go-lang-learning.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd conference-booking-app
+   cd ticket-booking-app
    ```
 
 3. Run the application:
